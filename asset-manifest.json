@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NxtWave/static/css/main.beba60ee.css",
+    "main.js": "/NxtWave/static/js/main.34e130d9.js",
+    "static/js/787.16ff0b2d.chunk.js": "/NxtWave/static/js/787.16ff0b2d.chunk.js",
+    "static/media/profile_pic.png": "/NxtWave/static/media/profile_pic.3ab194ff51babbdb4eeb.png",
+    "index.html": "/NxtWave/index.html",
+    "main.beba60ee.css.map": "/NxtWave/static/css/main.beba60ee.css.map",
+    "main.34e130d9.js.map": "/NxtWave/static/js/main.34e130d9.js.map",
+    "787.16ff0b2d.chunk.js.map": "/NxtWave/static/js/787.16ff0b2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beba60ee.css",
+    "static/js/main.34e130d9.js"
+  ]
+}
